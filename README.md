@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Revanth Reddy</h1>
 <h3 align="center">A passionate Developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reddymallarevanth" alt="reddymallarevanth" /></a> </p>
-
 - 🌱 I’m currently learning **Spring Boot, Devops, React**
 
 - 👨‍💻 All of my projects are available at [https://reddymallarevanth.github.io/Portfolio/](https://reddymallarevanth.github.io/Portfolio/)
@@ -29,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reddymallarevanth&show_icons=true&locale=en" alt="reddymallarevanth" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reddymallarevanth&" alt="reddymallarevanth" /></p>
+
